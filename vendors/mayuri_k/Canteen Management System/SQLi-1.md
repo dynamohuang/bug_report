@@ -1,4 +1,4 @@
-# Canteen Management System v1.0 by mayuri_k has Cross-site scripting (reflected)
+# Canteen Management System v1.0 by mayuri_k has SQL injection
 
 BUG_Author: Dingzhi.Huang
 
